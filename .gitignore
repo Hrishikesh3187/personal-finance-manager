@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+
+# Your personal data stays on your computer, not on GitHub
+data/expenses.csv
+data/expenses.tmp
+data/backups/
